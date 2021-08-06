@@ -1,0 +1,4 @@
+#program RRconf WBOOP CONF NPARTICLES RCUT L0 L1 L2
+./BOOP.out ../Conf_R_T1.0.xyz BOOP_T1.0.txt 300 3000 1.39 7.2798 7.2798 7.2798
+exit 0
+

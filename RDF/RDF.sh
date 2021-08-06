@@ -1,0 +1,3 @@
+#prgram RRconf WBAD CONF NPARTICLES L0 L1 L2
+./RDF.out ../Conf_R_T1.0.xyz ./RDF_T1.0.txt 300 3000 7.279837 7.279837 7.279837
+exit 0
