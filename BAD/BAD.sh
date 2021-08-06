@@ -1,0 +1,3 @@
+#preogram RRconf WBAD WCN CONF NPARTICLES RCUT L0 L1 L2
+./BAD.out ../Conf_R_T1.0.xyz Bad_R_T1.0.txt CN_R_T1.0.txt 300 3000 1.39 7.279837 7.279837 7.279837
+exit 0
