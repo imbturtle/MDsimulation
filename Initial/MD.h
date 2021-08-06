@@ -1,0 +1,14 @@
+double *Array1st(int);
+double **Array2nd(int,int);
+double ***Array3rd(int,int,int);
+void Init_R(int ,double **,double );
+int Chek_init_R(double **,double ,int );
+void Init_V(int ,double **,double );
+double BoxLeng(int,double);
+double Acc(int ,double **,double **,double ,double );
+void New_R(int ,double **,double **,double **,double **,double **,double ,double );
+void New_V(int ,double **,double **,double **,double **,double );
+double Center_V(int ,double **);
+double Rescale(int ,double **,double ,double );
+double Projector(int ,double **,double ,double );
+double Projector_F(int ,double **,double ,double );
